@@ -15,6 +15,11 @@ verify an autonomous agent actually did what it claims?*
 - [`claude-code-audit-action`](https://github.com/LaterKidsXD/claude-code-audit-action) —
   GitHub Action (published to the Marketplace) that audits reports in PRs
 
+**📊 See the fleet in action:**
+- [`bot-portfolio-dashboard`](https://github.com/LaterKidsXD/bot-portfolio-dashboard) —
+  Next.js + FastAPI control panel that visualizes the live fleet (per-bot P&L,
+  trade history, health) straight from each bot's audited SQLite database
+
 **🤖 The agent fleet** (private repos): futures, prediction-market arbitrage,
 and weather-derivatives bots, plus the orchestration + health-monitoring +
 two-stage review gate that runs them. Happy to walk through it.
